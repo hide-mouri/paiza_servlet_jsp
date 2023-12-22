@@ -1,1 +1,1 @@
-# paiza_servlet_jsp
+# paiza Webアプリ開発入門 Servlet/JSP編 検証用
