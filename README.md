@@ -1,4 +1,4 @@
-# paiza Webアプリ開発入門 Servlet/JSP編 検証用
+# paiza Webアプリ開発入門 Servlet/JSP編1 検証用
 
 ## 目的
 
